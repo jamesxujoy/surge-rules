@@ -351,8 +351,8 @@ DOMAIN, lc.map.baidu.com
 IP-CIDR, 180.76.76.200/32
 
 # > 哔哩哔哩
-;DOMAIN, mall.bilibili.com
-;DOMAIN, passport.bilibili.com
+# DOMAIN, mall.bilibili.com
+# DOMAIN, passport.bilibili.com
 DOMAIN-KEYWORD, api.sobot.com
 DOMAIN-SUFFIX, cm.ad.bilibili.com
 DOMAIN-SUFFIX, cm.adcommon.bilibili.com
@@ -424,7 +424,7 @@ IP-CIDR, 211.161.101.110/32
 DOMAIN-KEYWORD, image.bianxianmao.com
 
 # > 滴滴青桔（支付界面图片有误杀）
-;DOMAIN-KEYWORD, pt-starimg.didistatic.com
+# DOMAIN-KEYWORD, pt-starimg.didistatic.com
 ip-cidr, 203.107.1.1/24
 
 # > 懂车帝
@@ -535,7 +535,7 @@ DOMAIN-SUFFIX, www.google-analytics.com
 DOMAIN, ads.youtube.com
 
 # > 高德
-;DOMAIN, restapi.amap.com
+# DOMAIN, restapi.amap.com
 DOMAIN-SUFFIX, adiu.amap.com
 DOMAIN, aboard.apilocate.amap.com
 DOMAIN, apiinit.amap.com
@@ -559,8 +559,8 @@ DOMAIN, apis.alenable.com
 
 # >>>>>>>>>>>>>>> ✅ H ✅ <<<<<<<<<<<<<<
 # > HDO
-;DOMAIN-SUFFIX, applovin.com
-;DOMAIN-SUFFIX, applvn.com
+# DOMAIN-SUFFIX, applovin.com
+# DOMAIN-SUFFIX, applvn.com
 
 # > Huawei AspiegelBot
 IP-CIDR, 114.119.160.0/21
@@ -592,7 +592,7 @@ DOMAIN, business.msstatic.com
 DOMAIN-SUFFIX, v1d.szbdyd.com
 
 # > 哈啰 大部分图片无法正常加载
-;DOMAIN-KEYWORD, assets.51downapp.cn
+# DOMAIN-KEYWORD, assets.51downapp.cn
 
 # > 黄油相机 #开屏广告 感谢#Dragon分享
 DOMAIN-SUFFIX, anythinktech.com
@@ -633,7 +633,7 @@ DOMAIN-KEYWORD, s2.pstatp.com
 DOMAIN-KEYWORD, s3.pstatp.com
 DOMAIN-KEYWORD, a3.pstatp.com
 DOMAIN-KEYWORD, a3.bytecdn.cn
-;DOMAIN-KEYWORD, ichannel.snssdk.com
+# DOMAIN-KEYWORD, ichannel.snssdk.com
 DOMAIN, ad.toutiao.com
 DOMAIN, dsp.toutiao.com
 
@@ -676,8 +676,8 @@ DOMAIN, rp.hpplay.cn
 DOMAIN, rpt.hpplay.cn
 
 # > 快手
-;DOMAIN-SUFFIX, yximgs.com
-;DOMAIN, js-ad.a.yximgs.com
+# DOMAIN-SUFFIX, yximgs.com
+# DOMAIN, js-ad.a.yximgs.com
 DOMAIN-SUFFIX, e.kuaishou.com
 DOMAIN-SUFFIX, cm.downloader.commercial.kuaishou.com
 DOMAIN-SUFFIX, cm.ad.gifshow.com
@@ -927,18 +927,18 @@ DOMAIN-KEYWORD, log-api.pangolin-sdk-toutiao.com
 DOMAIN-KEYWORD, api-access.pangolin-sdk-toutiao.com
 
 # > 皮皮虾（比较激进，需要的自己开启）
-;DOMAIN-KEYWORD, snssdk.com
-;DOMAIN-KEYWORD, mssdk.bytedance.com
-;DOMAIN-KEYWORD, api.ribaoapi.com
-;DOMAIN-KEYWORD, apps.bytesfield.com
-;DOMAIN-KEYWORD, bytesmanager.com
-;DOMAIN-KEYWORD, mssdk-bu.bytedance.com
-;DOMAIN-KEYWORD, 365yg.com
-;DOMAIN-KEYWORD, ppx.byteimg.com
-;DOMAIN-KEYWORD, i.snssdk.com
+# DOMAIN-KEYWORD, snssdk.com
+# DOMAIN-KEYWORD, mssdk.bytedance.com
+# DOMAIN-KEYWORD, api.ribaoapi.com
+# DOMAIN-KEYWORD, apps.bytesfield.com
+# DOMAIN-KEYWORD, bytesmanager.com
+# DOMAIN-KEYWORD, mssdk-bu.bytedance.com
+# DOMAIN-KEYWORD, 365yg.com
+# DOMAIN-KEYWORD, ppx.byteimg.com
+# DOMAIN-KEYWORD, i.snssdk.com
 
 # > 影响端传媒正常运行，默认关闭
-;DOMAIN-SUFFIX, cloudfront.net
+# DOMAIN-SUFFIX, cloudfront.net
 
 
 
@@ -995,7 +995,7 @@ DOMAIN, pgdt.ugdtimg.com
 
 # > 汽车之家
 DOMAIN-KEYWORD, adm3.autoimg.cn
-;DOMAIN-KEYWORD, audid-api.taobao.com
+# DOMAIN-KEYWORD, audid-api.taobao.com
 DOMAIN-KEYWORD, collectionpv.che168.com
 DOMAIN-KEYWORD, adproxy.autohome.com
 DOMAIN-KEYWORD, applogapi.autohome.com
@@ -1038,7 +1038,7 @@ DOMAIN-SUFFIX, aty.sohu.com
 DOMAIN, hui.sohu.com
 
 # > 搜狗
-;DOMAIN, indivi-cdn.shouji.sogou.com
+# DOMAIN, indivi-cdn.shouji.sogou.com
 DOMAIN-SUFFIX, epro.sogou.com
 DOMAIN-SUFFIX, golden1.sogou.com
 DOMAIN-SUFFIX, inte.sogou.com
@@ -1062,7 +1062,7 @@ DOMAIN-SUFFIX, jdqd.jd.com
 DOMAIN-SUFFIX, shouji.sougou.com
 
 # > 搜狗输入法
-;DOMAIN-KEYWORD, business-cdn.shouji.sogou.com
+# DOMAIN-KEYWORD, business-cdn.shouji.sogou.com
 
 # > 深圳通微信小程序
 DOMAIN-SUFFIX, wxsnsdythumb.wxs.qq.com
@@ -1118,7 +1118,7 @@ DOMAIN-SUFFIX, apoll.m.taobao.com
 DOMAIN-SUFFIX, h-adashx.ut.taobao.com
 DOMAIN-SUFFIX, w.m.taobao.com
 DOMAIN, tunion-api.m.taobao.com
-;DOMAIN-SUFFIX, ai.m.taobao.com
+# DOMAIN-SUFFIX, ai.m.taobao.com
 DOMAIN-SUFFIX, re.m.taobao.com
 DOMAIN-SUFFIX, agoodm.m.taobao.com
 DOMAIN-SUFFIX, ai.taobao.com
@@ -1387,7 +1387,7 @@ DOMAIN-SUFFIX, hao.uc.cn
 DOMAIN-SUFFIX, lobmuc.cn
 DOMAIN-SUFFIX, open-uc.cn
 DOMAIN-SUFFIX, puds.test.uae.uc.cn
-;DOMAIN-SUFFIX, t.uc.cn
+# DOMAIN-SUFFIX, t.uc.cn
 DOMAIN-SUFFIX, track.uc.cn
 DOMAIN-SUFFIX, wmedia-track.uc.cn
 DOMAIN-SUFFIX, woodpecker.uc.cn
@@ -1500,7 +1500,7 @@ DOMAIN, yt-adp.ws.126.net
 
 # > 网易云
 # 此条会导致"淘宝->成就中心->淘宝人生"进不去
-;DOMAIN-KEYWORD, ossgw.alicdn.com
+# DOMAIN-KEYWORD, ossgw.alicdn.com
 
 # > 微软
 DOMAIN-SUFFIX, ads.msn.com
@@ -1572,7 +1572,7 @@ DOMAIN, saxs.sina.com.cn
 DOMAIN, saxn.sina.com.cn
 
 # > 雪球（可以去掉倒计时，但是误杀很多图片，默认关闭）
-;DOMAIN-KEYWORD, xqimg.imedao.com
+# DOMAIN-KEYWORD, xqimg.imedao.com
 
 # > 向日葵 见重写
 
@@ -1734,12 +1734,12 @@ IP-CIDR, 122.229.8.47/32
 IP-CIDR, 122.229.29.89/32
 
 # > 中信银行
-;DOMAIN-SUFFIX, sis.jpush.io
-;DOMAIN-SUFFIX, s.jpush.cn
-;DOMAIN-SUFFIX, jpush.cn
-;DOMAIN-SUFFIX, im64.jpush.cn
-;DOMAIN-SUFFIX, im.jpush.cn
-;DOMAIN-SUFFIX, jpush.html5.qq.com
+# DOMAIN-SUFFIX, sis.jpush.io
+# DOMAIN-SUFFIX, s.jpush.cn
+# DOMAIN-SUFFIX, jpush.cn
+# DOMAIN-SUFFIX, im64.jpush.cn
+# DOMAIN-SUFFIX, im.jpush.cn
+# DOMAIN-SUFFIX, jpush.html5.qq.com
 
 # > 中华万年历广告
 DOMAIN-KEYWORD, lkme.cc
@@ -1770,7 +1770,7 @@ DOMAIN-KEYWORD, asewlfjqwlflkew
 DOMAIN-KEYWORD, bngpt
 DOMAIN-KEYWORD, bongacash
 DOMAIN-KEYWORD, brushshopy
-;DOMAIN-KEYWORD, dat8
+# DOMAIN-KEYWORD, dat8
 DOMAIN-KEYWORD, dfkj8
 DOMAIN-KEYWORD, dlads
 DOMAIN-KEYWORD, dtscout
@@ -1781,7 +1781,7 @@ DOMAIN-KEYWORD, haowanyou
 DOMAIN-KEYWORD, highwebmedia
 DOMAIN-KEYWORD, histats
 DOMAIN-KEYWORD, in-page-push
-;DOMAIN-KEYWORD, jads
+# DOMAIN-KEYWORD, jads
 DOMAIN-KEYWORD, juruigj
 DOMAIN-KEYWORD, lieyou
 DOMAIN-KEYWORD, mathtag
@@ -5404,7 +5404,7 @@ DOMAIN-SUFFIX, g.aligames.com
 DOMAIN-SUFFIX, optimus-ads.amap.com.w.alikunlun.com
 DOMAIN-SUFFIX, osfota.cdn.aliyun.com
 DOMAIN-SUFFIX, oa-panther.data.aliyun.com
-;DOMAIN-SUFFIX, oss-accelerate.aliyuncs.com
+# DOMAIN-SUFFIX, oss-accelerate.aliyuncs.com
 DOMAIN-SUFFIX, dressimage.img-cn-beijing.aliyuncs.com
 DOMAIN-SUFFIX, adash.man.aliyuncs.com
 DOMAIN-SUFFIX, ooss.oss.aliyuncs.com
@@ -8356,7 +8356,7 @@ DOMAIN-SUFFIX, downlaod.xiaocen.com
 DOMAIN-SUFFIX, adx.xiaodutv.com
 DOMAIN-SUFFIX, apm-track.xiaohongshu.com
 DOMAIN-SUFFIX, t-ads.xiaohongshu.com
-;DOMAIN-SUFFIX, ct.xiaojukeji.com
+# DOMAIN-SUFFIX, ct.xiaojukeji.com
 DOMAIN-SUFFIX, gwp.xiaojukeji.com
 DOMAIN-SUFFIX, ad.xiaomi.com
 DOMAIN-SUFFIX, ad1.xiaomi.com
